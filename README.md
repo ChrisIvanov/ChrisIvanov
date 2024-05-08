@@ -13,3 +13,12 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ChrisIvanov&count_private=true&theme=tokyonight&showicons=true)]()
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisIvanov&langs_count=5&theme=tokyonight)]()
+
+## My Most Prominent Pprojects:
+
+### Homes
+#### - Technologies:
+- Back-end: .NET 8, C#, ASP.NET, PostgreSQL, EF Core
+- Front-end: JS, React + Vite
+- #### - Description:
+The platform provides realestate agents and homeowners who want to create an offer for a property.
