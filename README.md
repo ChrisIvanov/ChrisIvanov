@@ -1,7 +1,7 @@
-### Hi there 👋
+### 👋 Hi there! I am Chris.
 
 
-- 🔭 At this time I am studying in Plovdiv University, Bulgaria and following the path of a Software Engineer. The pursuit of knowledge through study is a path to excellence.
+- 🔭 At this time I am studying in Plovdiv University, Bulgaria and following the path of a Software Engineer in academic athmosphere. The pursuit of knowledge through study is a path to excellence.
 - 🌱 Now I am working on an application that employs the latest inovations in .NET and C#. I am also collaborating with ChatGPT and other AI tools. 
 - 👯 I’m looking to collaborate on any open-source or community projects.
 <!-- - 🤔 I’m looking for help with ...-->
