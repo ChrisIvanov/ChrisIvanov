@@ -10,6 +10,6 @@
 - 😄 Pronouns: buckly
 - ⚡ Fun fact: Divide et impera [left = 0, right = arr.Length]
 
-
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ChrisIvanov&count_private=true&theme=tokyonight&showicons=true)]()
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisIvanov&langs_count=5&theme=tokyonight)]()
